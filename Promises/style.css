@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    background-color: #7a5959;
+}
+button{
+    background-color: #7a5959;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.lista-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
